@@ -1,5 +1,5 @@
 {
-	 "nationsToRemove":["Japan","Denmark","Sweden"],
+	 "nationsToRemove":["Japan","Denmark","Sweden","Arabia","Austria","Babylon","Byzantium","Carthage","Celts","China","Egypt","Ethiopia","Germany","Greece","India","Korea","Mongolia","Persia","Rome","Russia","Siam","Songhai","The Huns","The Ottomans"],
 	 "unitsToRemove": ["Bowman","Tercio"]
 	 "constants":{"cityWorkRange":4}
 }
