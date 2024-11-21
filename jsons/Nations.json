@@ -580,6 +580,7 @@
 	"leaderName": "George Washington",
 	"adjective": ["American"],
 	"preferredVictoryType": "Scientific",
+	"personality": "George Washington",
 
         "startIntroPart1": "President Washington, we salute you and the proud American civilization! Freed from the British dominion in the 18th century, then cleansed and reborn after a terrible civil war, the United States nation was ready to play its great role in the 20th century. At the height of its power, triumphant after two terrible world wars, United States of America, a land of immigration, opportunities, optimism and determination, has risen above all other weakening nations, unable to equal such power.",
         "startIntroPart2": "President Washington, will you show to the world the legitimacy of the American way of life, and spread the flame of liberty to all mankind? Will your new empire shine through the ages of history?",
@@ -612,6 +613,7 @@
 		"adjective": ["English"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "George III",
 
         "startIntroPart1": "By the grace of God, I, King George III, steward of the British Empire, welcome you. Through toil, perseverance, and providence, Britain has risen to unparalleled heights, our dominion spanning continents and oceans. Our red-coated armies, formidable navy, and industrious subjects have made the Empire a beacon of civilization and power. Commerce and innovation flow through our veins, shaping a world that bears the mark of British resolve and ambition.",
         "startIntroPart2": "As King, I ask: Shall we not secure the blessings of providence once more? Shall Britain’s majesty not radiate across every sea and shore, guiding the course of history with steadfast hands and unwavering purpose?",
@@ -640,6 +642,7 @@
 		"adjective": ["Spanish"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
+		"personality": "Phillip II",
 
         "startIntroPart1": "I, Philip II, by divine right King of Spain, Naples, Sicily, and the Indies, ruler of a realm where the sun never sets, welcome you. Spain, united under the Catholic faith, has become the foremost power of Christendom, its fleets commanding the seas and its explorers charting the unknown. Through God’s grace, our dominion extends across continents, spreading faith and securing the wealth of the New World to sustain our holy mission.",
         "startIntroPart2": "By the will of Almighty God, shall Spain rise anew to fulfill its divine destiny? Shall we once again shape the course of history, bringing light and order to the farthest corners of the Earth?",
@@ -667,7 +670,7 @@
 		"leaderName": "Louis XIV",
 		"adjective": ["French"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Napoleon",
+		"personality": "Louis XIV",
 
         "startIntroPart1": "I, Louis XIV, by divine right, reign as the absolute monarch of France, the most splendid and powerful kingdom in all of Europe. Under my rule, France has flourished as the cultural and intellectual heart of the world, its arts, architecture, and military unmatched. The grandeur of Versailles reflects the strength of my reign, while our colonies expand to spread France’s light to distant lands.",
         "startIntroPart2": "The Sun never sets on my ambitions. Shall we illuminate the world with France’s glory once more? Shall my kingdom ascend to eternal brilliance, leaving all rivals in awe of its splendor and might?",
@@ -724,6 +727,7 @@
 		"adjective": ["Iroquoise"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Hiawatha",
 
         "startIntroPart1": "Greetings, noble Hiawatha, leader of the mighty Iroquois nations! Your people lived near the great and holy lake Ontario since the ancient ages, on a land that will be later known as New York city. Long ago, the five peoples of Seneca, Onondaga, Mohawks, Cayugas and Oneida became one nation, the Haudenosaunee, the Iroquois. Although not having a written language, the wise Iroquois created the Great Law of Peace, which can be considered the first established constitution. For decades, your people fought powerful enemies, such as the Huron, and then the French and English colonists. With less warriors and inferior weaponry, the Iroquois still survived and walk on the path of peace and harmony, until their way of living faded away under the crush of the newborn United States nation.",
         "startIntroPart2": "Great Sachem Hiawatha, do you hear the complaints of your people? Can you light the path leading to the ancient Iroquois union? Will your new empire shine through the ages of history?",
@@ -754,13 +758,10 @@
 		"adjective": ["Gran Colombian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
-		
-
+		"personality": "Simón Bolívar",
 		
 	      "startIntroPart1": "Greetings, noble leader. I am Simón Bolívar, known as El Libertador, the liberator of South America. With courage and unwavering resolve, I led the charge for independence across vast lands, uniting people under the banner of freedom. Today, we stand on the threshold of greatness once more, ready to forge a new destiny for Gran Colombia.",
         	"startIntroPart2": "In this journey, we shall face many challenges, from the rugged Andes to the lush plains and dense jungles. Our strength lies in unity, resilience, and the unwavering spirit of our people. Together, we will build a prosperous and powerful nation, where liberty and justice reign supreme. Let us march forward, with the vision of a unified and free South America guiding our every step. ¡Viva Gran Colombia!"
-
-
 
 		
 		"declaringWar": "Your tyranny, if unchecked, dooms the world to darkness, and for this reason I must declare war on you.",
@@ -787,6 +788,7 @@
     "adjective": ["Cherokee"],
     "startBias": ["Forest"],
     "preferredVictoryType": "Cultural",
+    "personality": "Pathkiller",
 
     "startIntroPart1": "Osiyo, noble leader. I am Pathkiller, chief of the Cherokee. Our roots run deep in these lands, nurtured by the wisdom of our ancestors and the spirit of our people.",
     "startIntroPart2": "Together, we will walk the path of harmony and strength, embracing the future while honoring our sacred traditions. Our warriors are fierce, our culture rich, and our resolve unbreakable. Let us guide the Cherokee to a new dawn, where our legacy will shine brightly for all time.",
