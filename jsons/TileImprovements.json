@@ -10,14 +10,15 @@
 		"uniques": ["[+1 Food] <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+10 Gold]"],
 	},
+
 	{
-		"name": "Fortress",
-		"uniqueTo": "The Order of Assassins",
+		"name": "Stockade",
+		"uniqueTo": "America",
 		"replaces": "Fort"
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-		"turnsToBuild": 6,
-		"techRequired": "Engineering",
-		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [100]%"],
+		"turnsToBuild": 5,
+		"techRequired": "Construction",
+		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [100]%","[+1 Gold] <after discovering [Guilds]>"],
 		"shortcutKey": "O"
 	},
 {
