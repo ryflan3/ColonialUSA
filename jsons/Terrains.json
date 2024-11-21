@@ -101,7 +101,7 @@
 		"uniques": ["[+2] to Fertility for Map Generation",
             "Considered [Desirable] when determining start locations <on water maps>",
             "Every [40] tiles with this terrain will receive a major deposit of a strategic resource.",
-		"Becomes [Beach] when adjacent to [Plains]"]
+		]
 	},
 	{
 		"name": "Ocean",
@@ -110,7 +110,7 @@
 		"gold": 1,
 		"movementCost": 1,
 		"RGB": [43, 87, 151],
-		"uniques": ["Becomes [Coast] when adjacent to [Beach]"]
+		
 	},
 	{
 		"name": "Lakes",
