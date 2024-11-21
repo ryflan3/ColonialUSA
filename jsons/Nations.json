@@ -1,15 +1,15 @@
 [
 	{
-		"name": "Florence",
-		"adjective": ["Florence"],
-		"cityStateType": "Florence-type",
+		"name": "Plymouth",
+		"adjective": ["Plymouth"],
+		"cityStateType": "Plymouth-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "And so the flower of Florence falls to barbaric hands...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [232,25,252],
-		"cities": ["Florence"]
+		"cities": ["Plymouth"]
 	},
 	{
 		"name": "Hanoi",
