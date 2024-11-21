@@ -775,7 +775,7 @@
 		"innerColor": [255,221,0],
 		
 		"uniqueName": "Ejército Patriota",
-		"uniques": ["[+100]% XP gained from combat <for [Military] units> <during a Golden Age>","[+1] Happiness from each type of luxury resource","All healing effects doubled <for [Military] units>","[+2 Gold, +2 Food] from [Plantation] tiles [in all cities]","Rebel units may spawn <when at war>"],
+		"uniques": ["[+100]% XP gained from combat <for [Military] units> <during a Golden Age>","[+1] Happiness from each type of luxury resource","[+2 Gold, +2 Food] from [Plantation] tiles [in all cities]","Rebel units may spawn <when at war>"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
 			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",
@@ -802,7 +802,7 @@
     "outerColor": [30, 144, 255], 
     "innerColor": [139, 69, 19],   
     "uniqueName": "Council of Peace",
-    "uniques":["[+1 Faith, +1 Food] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production, +1 Food] from each Trade Route","When declaring friendship, both parties gain a [+3]% boost to great person generation","[+1 Culture] from [Luxury resource] tiles [in capital]","[+40]% Culture cost of natural border growth [in all cities]"],
+    "uniques":["[+1 Faith, +1 Food] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production, +1 Food] from each Trade Route","When declaring friendship, both parties gain a [+3]% boost to great person generation","[+40]% Culture cost of natural border growth [in all cities]"],
     
  "cities": [
         "Echota",
@@ -863,7 +863,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Long Count",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.","Free Social Policy <every [100] turns> <(modified by game speed)>","Free Technology <every [110] turns> <(modified by game speed)>","[+1 Food] from [Farm] tiles [in all cities]","[-1 Food, -1 Production] from [Lumber mill] tiles [in all cities]"],
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.","Free Social Policy <every [100] turns> <(modified by game speed)>","[+1 Food] from [Farm] tiles [in all cities]","[-1 Food, -1 Production] from [Lumber mill] tiles [in all cities]"],
  	
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
@@ -896,7 +896,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[+20]% XP gained from combat","[+20]% [Gold] [in annexed cities]","[+15]% [Science] [in annexed cities]","[+60]% maintenance costs <when not at war>"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[+20]% XP gained from combat","[+20]% [Gold] [in annexed cities]","[+60]% maintenance costs <when not at war>"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
@@ -929,7 +929,7 @@
 		"uniqueName": "Wayfinding",
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
-            "[+2] Sight <for [Embarked] units>",  "[+20]% Strength <within [2] tiles of a [Moai]>","[+15]% Strength <in [Beach] tiles>","[+75]% Yield from every [Beach]","[-25]% [Gold] <in cities without a [Harbor]>"],
+            "[+2] Sight <for [Embarked] units>",  "[+20]% Strength <within [2] tiles of a [Moai]>","[+10]% Strength <in [Coast] tiles>","[-25]% [Gold] <in cities without a [Harbor]>"],
 		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
 			"Tuamotu","Rarotonga","Tuvalu","Tubuai","Mangareva","Oahu","Kiritimati","Ontong Java","Niue","Rekohu",
 			"Rakahanga","Bora Bora","Kailua","Uvea","Futuna","Rotuma","Tokelau","Lahaina","Bellona","Mungava","Tikopia",
@@ -962,8 +962,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Children of the Sun",
 		"uniques": ["Units ignore terrain costs when moving into any tile with Hills",
-			"[-50]% maintenance on road & railroads",
-			"No Maintenance costs for improvements in [Hill] tiles","[+15]% [Production] [in all cities connected to capital]","[+10]% [Food] [in capital]","[+100]% Yield from every [Quarry]","[-15]% [Science] [in all cities] <before discovering [Scientific Theory]>"],
+			"[-50]% maintenance on road & railroads","[+15]% [Production] [in all cities connected to capital]","[-15]% [Science] [in all cities] <before discovering [Scientific Theory]>"],
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
 			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",
