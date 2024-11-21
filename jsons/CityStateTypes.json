@@ -201,7 +201,7 @@
 	
 	//Mercantile
     {
-        "name": "Venice-type",
+        "name": "New Amsterdam-type",
         "friendBonusUniques": [
             "[+1 Happiness] <before the [Medieval era]>",
             "[+2 Happiness] <starting from the [Medieval era]>",
