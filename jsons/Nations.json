@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Florence",
-		"adjective": ["Florentine"],
-		"cityStateType": "Florence-type",
+		"name": "New Amsterdam",
+		"adjective": ["Amsterdam"],
+		"cityStateType": "New Amsterdam-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
