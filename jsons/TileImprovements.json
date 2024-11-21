@@ -53,5 +53,14 @@
 		"uniques": ["Can be built outside your borders", "Turn this tile into a [Coast] tile", "Pillaging this improvement yields approximately [+50 Gold]"],
 		"shortcutKey": "T"
         },
+	{
+		"name": "Moai",
+		"uniqueTo": "Polynesia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 1,
+		"turnsToBuild": 4,
+		"uniques": ["Can only be built on [Coastal] tiles", "[+1 Culture] for each adjacent [Moai]", "[+1 Gold] <after discovering [Navigation]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"techRequired": "Construction",
+		"shortcutKey": "M"
 	
 ]
