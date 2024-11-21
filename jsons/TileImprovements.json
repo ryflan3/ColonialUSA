@@ -37,7 +37,7 @@
     },
         {
                 "name": "Trading post",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Beach"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
@@ -47,7 +47,7 @@
 
 	{
                 "name": "Canal",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Flood plains","Beach"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Flood plains"],
 		"turnsToBuild": 20,
 		"techRequired": "Navigation",
 		"uniques": ["Can be built outside your borders", "Turn this tile into a [Coast] tile", "Pillaging this improvement yields approximately [+50 Gold]"],
