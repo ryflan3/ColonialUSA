@@ -1,8 +1,8 @@
 [
 	{
-		"name": "New Amsterdam",
-		"adjective": ["Amsterdam"],
-		"cityStateType": "New Amsterdam-type",
+		"name": "Florence",
+		"adjective": ["Florence"],
+		"cityStateType": "Florence-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -176,9 +176,9 @@
 	
 	//Mercantile
 	{
-		"name": "Venice",
-		"adjective": ["Venetian"],
-		"cityStateType": "Venice-type",
+		"name": "New Amsterdam",
+		"adjective": ["New Amsterdam"],
+		"cityStateType": "New Amsterdam-type",
 		"startBias": ["Coast"],
 
 		"declaringWar": "You have revealed your purposes a bit too early, my friend...",
