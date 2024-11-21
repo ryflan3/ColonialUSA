@@ -1,39 +1,6 @@
 [
   
 	{
-	        "name": "Berserker",
-		"unitType": "Sword",
-		"replaces": "Longswordsman",
-		"uniqueTo": "Norseman Vikings",
-		"movement": 3,
-		"strength": 22,
-		"cost": 120,
-		"uniques": ["[+25]% Strength <vs [Wounded] units>",
-			"[+10]% Strength <when fighting in [Snow] tiles>",
-			"[+10]% Strength <when fighting in [Tundra] tiles>",
-			"[+10]% Strength <when fighting in [Hill] tiles>"], 
-		"requiredTech": "Metal Casting",
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Metallurgy",
-		"requiredResource": "Iron",
-		"promotions": ["Amphibious","Blitz"],
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-	},
-	{
-		"name": "Longship",
-		"unitType": "Melee Water",
-		"replaces": "Galleass",
-		"uniqueTo": "Norseman Vikings",
-		"movement": 4,
-		"strength": 19,
-		"cost": 100,
-		"requiredTech": "Compass",
-		"obsoleteTech": "Navigation",
-		"upgradesTo": "Frigate",
-		"uniques": ["Can move after attacking","May withdraw before melee ([80]%)","[+50]% Strength <vs cities> <when attacking>"]
-	},
-	{
 		"name": "Longbowman",
 		"unitType": "Archery",
 		"range": 2,
@@ -116,20 +83,6 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
-	},
-	{
-		"name": "Foreign Legion",
-		"unitType": "Gunpowder",
-		"replaces": "Great War Infantry",
-		"uniqueTo": "France",
-		"movement": 2,
-		"strength": 52,
-		"cost": 320,
-		"requiredTech": "Replaceable Parts",
-		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics",
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>","[+1] Movement <in [Foreign Land] tiles>"],
 		"attackSound": "shot"
 	},
 	{
