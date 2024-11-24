@@ -280,16 +280,16 @@
 		"cities": ["Almaty"]
 	},
 	{
-		"name": "Belgrade",
-		"adjective": ["Belgrade"],
-		"cityStateType": "Belgrade-type",
+		"name": "Boonesborough",
+		"adjective": ["Boonesborough"],
+		"cityStateType": "Boonesborough-type",
 
 		"declaringWar": "Let's have a nice little War, shall we?",
 		"attacked": "If you need your nose bloodied, we'll happily serve.",
-		"defeated": "The serbian guerilla will never stop haunting you!",
+		"defeated": "The ghost of Daniel Boone will never stop haunting you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,24,24],
-		"cities": ["Belgrade"]
+		"cities": ["Boonesborough"]
 	},
 	{
 		"name": "M'Banza-Kongo",
