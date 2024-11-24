@@ -215,9 +215,9 @@
 		"cities": ["Genoa"]
 	},
 	{
-		"name": "Kathmandu",
-		"adjective": ["Kathmandu"],
-		"cityStateType": "Kathmandu-type",
+		"name": "Taos Outpost",
+		"adjective": ["Taos Outpost"],
+		"cityStateType": "Taos Outpost-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
