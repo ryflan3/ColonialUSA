@@ -386,7 +386,7 @@
         "color": [255, 0, 0]
     },
     {
-        "name": "Almaty-type",
+        "name": "Santa Elena-type",
         "friendBonusUniques": [
 			"Provides military units every ≈[20] turns",
 			"[+2]% [Production] from every [Barracks]",
