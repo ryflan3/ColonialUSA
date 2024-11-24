@@ -422,6 +422,41 @@
           "Order": 9,
           "National Defense": 8
       }
+},
+  {
+      "name": "Big Bear",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 7,
+      "food": 9,
+      "gold": 6,
+      "happiness": 8,
+      "production": 7,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 5,
+      "aggressive": 4,
+      "declareWar": 3,
+      "commerce": 6,
+      "diplomacy": 10,
+      "loyal": 10,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 8,
+          "Honor": 5,
+          "Commerce": 6,
+          "Patronage": 9,
+          "Piety": 7,
+          "Rationalism": 7,
+          "Exploration": 6,
+          "Aesthetics": 9,
+          "Freedom": 8,
+          "Autocracy": 4,
+          "Order": 7,
+          "National Defense": 6
+      }
 }
 
 
