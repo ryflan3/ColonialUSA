@@ -188,7 +188,7 @@
         "color": [56, 255, 112]
     },
     {
-        "name": "Vancouver-type",
+        "name": "Kaskaskia-type",
         "friendBonusUniques": [
 			"[+2 Food] [in capital]",
 			"[+2 Gold] in cities on [River] tiles"],
