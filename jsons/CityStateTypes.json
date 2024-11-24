@@ -402,7 +402,7 @@
         "color": [255, 0, 0]
     },
     {
-        "name": "Belgrade-type",
+        "name": "Boonesborough-type",
         "friendBonusUniques": [
 			"Provides military units every ≈[20] turns",
 			"[+75]% Yield from every [Land] <in [Fort] tiles>"
