@@ -474,7 +474,7 @@
 	
 	//Religious
     {
-        "name": "Bratislava-type",
+        "name": "Ephrata Cloister-type",
         "friendBonusUniques":  [
             "[+4 Faith] <before the [Medieval era]>",
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
