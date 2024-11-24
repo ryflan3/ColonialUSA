@@ -123,9 +123,9 @@
 		"cities": ["Manila"]
 	},
 	{
-		"name": "Rio de Janeiro",
-		"adjective": ["Carioca"],
-		"cityStateType": "Rio de Janeiro-type",
+		"name": "Grand Banks",
+		"adjective": ["Grand Banks"],
+		"cityStateType": "Grand Banks-type",
 		"startBias": ["Coast"],
 
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
@@ -133,7 +133,7 @@
 		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [23, 220, 34],
-		"cities": ["Rio de Janeiro"]
+		"cities": ["Grand Banks"]
 	},
 	{
 		"name": "Sydney",
