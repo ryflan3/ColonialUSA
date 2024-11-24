@@ -268,16 +268,16 @@
 	
 	//Militaristic
 	{
-		"name": "Almaty",
-		"adjective": ["Almaty"],
-		"cityStateType": "Almaty-type",
+		"name": "Santa Elena",
+		"adjective": ["Santa Elena"],
+		"cityStateType": "Santa Elena-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,0],
-		"cities": ["Almaty"]
+		"cities": ["Santa Elena"]
 	},
 	{
 		"name": "Boonesborough",
