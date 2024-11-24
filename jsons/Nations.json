@@ -564,16 +564,16 @@
 		"cities": ["Buenos Aires"]
 	},
 	{
-		"name": "Johannesburg",
-		"adjective": ["Johannesburg"],
-		"cityStateType": "Johannesburg-type",
+		"name": "Fort Ross",
+		"adjective": ["Fort Ross"],
+		"cityStateType": "Fort Ross-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [201,129,56],
-		"cities": ["Johannesburg"]
+		"cities": ["Fort Ross"]
 	},
   {
 	"name": "America",
