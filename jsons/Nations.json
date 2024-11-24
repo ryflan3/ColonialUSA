@@ -343,16 +343,16 @@
 
 	//Religious
 	{
-		"name": "Bratislava",
-		"adjective": ["Bratislava"],
-		"cityStateType": "Bratislava-type",
+		"name": "Ephrata Cloister",
+		"adjective": ["Ephrata Cloister"],
+		"cityStateType": "Ephrata Cloister-type",
 
 		"declaringWar": "I didn't want to do this. We declare war.",
 		"attacked": "I will fear no evil. For god is with me!",
 		"defeated": "Why have you forsaken us my lord?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,255],
-		"cities": ["Bratislava"]
+		"cities": ["Ephrata Cloister"]
 	},
 	{
 		"name": "Fort Caroline",
