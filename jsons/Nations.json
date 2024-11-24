@@ -12,16 +12,16 @@
 		"cities": ["Plymouth"]
 	},
 	{
-		"name": "Hanoi",
-		"adjective": ["Hanoi"],
-		"cityStateType": "Hanoi-type",
+		"name": "San Miguel",
+		"adjective": ["San Miguel"],
+		"cityStateType": "San Miguel-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,23,255],
-		"cities": ["Hanoi"]
+		"cities": ["San Miguel"]
 	},
 	{
 		"name": "Kuala Lumpur",
