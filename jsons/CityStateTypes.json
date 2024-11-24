@@ -21,7 +21,7 @@
         "color": [139, 96, 255]
     },
 	{
-        "name": "Hanoi-type",
+        "name": "San Miguel-type",
         "friendBonusUniques": [
             "[+4 Culture] <before the [Medieval era]>",
             "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
