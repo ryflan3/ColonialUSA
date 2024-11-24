@@ -189,9 +189,9 @@
 		"cities": ["New Amsterdam"]
 	},
 	{
-		"name": "Antwerp",
-		"adjective": ["Antwerp"],
-		"cityStateType": "Antwerp-type",
+		"name": "Republic of Pirates",
+		"adjective": ["Republic of Pirates"],
+		"cityStateType": "Republic of Pirates-type",
 		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -199,7 +199,7 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [194,176,52],
-		"cities": ["Antwerp"]
+		"cities": ["Republic of Pirates"]
 	},
 	{
 		"name": "Genoa",
