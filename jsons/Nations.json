@@ -552,16 +552,16 @@
 		"cities": ["Hong Kong"]
 	},
 	{
-		"name": "Buenos Aires",
-		"adjective": ["Buenos Aires"],
-		"cityStateType": "Buenos Aires-type",
+		"name": "St. Augustine Saltworks",
+		"adjective": ["St. Augustine Saltworks"],
+		"cityStateType": "St. Augustine Saltworks-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [230,142,55],
-		"cities": ["Buenos Aires"]
+		"cities": ["St. Augustine Saltworks"]
 	},
 	{
 		"name": "Fort Ross",
