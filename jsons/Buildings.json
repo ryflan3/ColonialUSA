@@ -264,6 +264,33 @@
         "requiredTech": "Drama and Poetry",
         "quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
     },
+	{
+		"name": "Smokehouse",
+		"replaces": "Workshop",
+		"uniqueTo": "Cree",
+		"cost": 100,
+		"maintenance": 2,
+		"production": 2,
+		"culture": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Food] from [Camp] tiles [in this city]","[+1 Gold] from [Camp] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Sweat Lodge",
+		"replaces": "Opera House",
+		"uniqueTo": "Cree",
+		"culture": 4,
+		"faith": 2,
+		"happiness": 1,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 	
 
 ]
