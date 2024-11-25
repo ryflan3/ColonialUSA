@@ -620,6 +620,43 @@
            "Wabowden", "Split Lake", "Fort Albany", "Mistassini", "Nemaska", "Eastmain", "York Factory"],
 		"spyNames": ["Ayimasis", "Asikiwkiyatotaw", "Kisikawasan", "Danis", "Mahikan", "Kahpayekoot", "Mistahi-Maskwa", "Kaseweetin", "Mistawasis", "Keasik"]
 	},
+	{
+		"name": "Apache",
+		"leaderName": "Cochise",
+		"adjective": ["Apache"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "Cochise",
+		
+		"startIntroPart1": "I am Cochise, leader of the Apache. For years, I defended my people and our lands from those who would take them by deceit and violence. I sought peace when it was offered in good faith, but when betrayal came, I fought with the strength of the mountains and the speed of the desert wind. Our way of life, rooted in these sacred lands, is worth every sacrifice.",
+		"startIntroPart2": "Now, a new path lies before us. Shall we protect our people, forge alliances, and rise above those who threaten our way of life? Let us honor our ancestors and ensure the Apache endure for generations to come.",
+		
+		"declaringWar": "I have endured many injustices, but now you leave me no choice. We will fight, and you will know the wrath of the Apache.",
+		"attacked": "You strike without honor. The land itself will rise against you alongside my people.",
+		"defeated": "I fought for my people, not for conquest. Though this day is yours, my spirit and cause remain unbroken.",
+		"introduction": "I am Cochise. These lands are sacred, and my people are strong. Why have you come?",
+		"neutralHello": "What brings you to me? Speak your intentions.",
+		"hateHello": "You tread on dangerous ground. Speak, if you dare.",
+		"tradeRequest": "The Apache value fairness. Let us see if this trade benefits both of us.",
+		
+		
+		"outerColor": [165, 42, 42],
+		"innerColor": [218, 165, 32],
+		
+		"uniqueName": "Master's of the Land",
+		"uniques": ["[+50]% Yield from every [Desert]","No movement cost to pillage <for [All] units>","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>", "[+25]% construction time for [All] improvements"],
+		"cities": ["Chiricahua", "Warm Springs", "Mescalero", "San Carlos", 
+           "Ojo Caliente", "Tonto Basin", "Dragoon Mountains", "White Mountains", "Aravaipa Canyon", 
+           "Black Range", "Tularosa", "Mount Graham", "San Simon", "Blue River", "Alma", "Ruidoso", 
+           "Sierra Blanca", "Jicarilla", "Carrizo Mountains", "Mogollon Rim", "Alamogordo", "Bear Springs", 
+           "Cañada Alamosa", "Santa Rita Mountains", "El Malpais", "Tres Castillos"],
+		"spyNames": ["Geronimo", "Mangas Coloradas", "Victorio", "Naiche", "Juh", "Delshay", 
+                "Taza", "Chato", "Hosate", "Eskiminzin", "Kaytennae", "Goyahkla", "Dos-teh-seh", 
+                "Tobadzischini", "Fun", "Haskay-bay-nay-ntayl", "Quanah", "Chihuahua", 
+                "Taza", "Dahteste", "Nah-da-ste", "Nock-ay-del-klinne", "Huera", "Nah-ke-de-lin"]
+	},
+
+]
 
 ]
 
