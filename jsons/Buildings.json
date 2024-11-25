@@ -313,6 +313,20 @@
 			"[+1 Production] from [Sheep] tiles [in this city]","[+2 Gold] from [Horses] tiles [in this city]"]
 		"requiredTech": "Horseback Riding"
 	},
+	{
+		"name": "Tavern",
+		"replaces": "Opera House",
+		"uniqueTo": "America",
+		"culture": 5,
+		"gold": 1,
+		"happiness": 1,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 	
 
 ]
