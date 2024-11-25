@@ -134,7 +134,7 @@
 		"replaces": "Cavalry",
 		"uniqueTo": "Gran Colombia",
 		"movement": 5,
-		"strength": 37,
+		"strength": 36,
 		"cost": 200,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
@@ -199,5 +199,19 @@
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Oskapewis Scout",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Cree",
+		"movement": 4,
+		"strength": 8,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Composite Bowman] through ruins-like effects", "Never appears as a Barbarian unit","[+2] Sight","[+15] HP when healing <in [Tundra] tiles>"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	
 	
 ]
