@@ -291,6 +291,14 @@
 		"requiredTech": "Acoustics",
 		"uniques": ["Destroyed when the city is captured"]
 	},
-	
+	{
+		"name": "Hogan Shelter",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Apache",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": ["[50]% Food is carried over after population increases [in this city]","[+5]% growth [in this city]"],
+		"requiredTech": "Engineering"
+	},
 
 ]
