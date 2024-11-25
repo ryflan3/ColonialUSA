@@ -101,4 +101,28 @@ Parthenon by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/
 Burj Khalifa by Владимир Козачок from <a href="https://thenounproject.com/browse/icons/term/burj-khalifa/" target="_blank" title="Burj Khalifa Icons">Noun Project</a> (CC BY 3.0)
 Dam by Satawat Anukul from <a href="https://thenounproject.com/browse/icons/term/dam/" target="_blank" title="Dam Icons">Noun Project</a> (CC BY 3.0)
 Castle by Symbolon from <a href="https://thenounproject.com/browse/icons/term/castle/" target="_blank" title="Castle Icons">Noun Project</a> (CC BY 3.0)
+Bear by Chaiconator from <a href="https://thenounproject.com/browse/icons/term/bear/" target="_blank" title="Bear Icons">Noun Project</a> (CC BY 3.0)
 
+Totem Pole by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/totem-pole/" target="_blank" title="Totem Pole Icons">Noun Project</a> (CC BY 3.0)
+
+headress by Henry Ryder from <a href="https://thenounproject.com/browse/icons/term/headress/" target="_blank" title="headress Icons">Noun Project</a> (CC BY 3.0)
+
+feather by Smalllike from <a href="https://thenounproject.com/browse/icons/term/feather/" target="_blank" title="feather Icons">Noun Project</a> (CC BY 3.0)
+
+American Indian by Hey Rabbit from <a href="https://thenounproject.com/browse/icons/term/american-indian/" target="_blank" title="American Indian Icons">Noun Project</a> (CC BY 3.0)
+
+arrows and teeth by bsd studio from <a href="https://thenounproject.com/browse/icons/term/arrows-and-teeth/" target="_blank" title="arrows and teeth Icons">Noun Project</a> (CC BY 3.0)
+
+American Indian by Hey Rabbit from <a href="https://thenounproject.com/browse/icons/term/american-indian/" target="_blank" title="American Indian Icons">Noun Project</a> (CC BY 3.0)
+
+bonfire by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/bonfire/" target="_blank" title="bonfire Icons">Noun Project</a> (CC BY 3.0)
+
+Fort by William Hodges from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
+
+Meat by Khulqi Rosyid from <a href="https://thenounproject.com/browse/icons/term/meat/" target="_blank" title="Meat Icons">Noun Project</a> (CC BY 3.0)
+
+sauna by ridhobadal from <a href="https://thenounproject.com/browse/icons/term/sauna/" target="_blank" title="sauna Icons">Noun Project</a> (CC BY 3.0)
+
+wigwam by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/wigwam/" target="_blank" title="wigwam Icons">Noun Project</a> (CC BY 3.0)
+
+tavern by iconfield from <a href="https://thenounproject.com/browse/icons/term/tavern/" target="_blank" title="tavern Icons">Noun Project</a> (CC BY 3.0)
