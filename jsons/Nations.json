@@ -655,6 +655,40 @@
                 "Tobadzischini", "Fun", "Haskay-bay-nay-ntayl", "Quanah", "Chihuahua", 
                 "Taza", "Dahteste", "Nah-da-ste", "Nock-ay-del-klinne", "Huera", "Nah-ke-de-lin"]
 	},
+	{
+		"name": "Comanche",
+		"leaderName": "Buffalo Hump",
+		"adjective": ["Comanche"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		"personality": "Buffalo Hump",
+		
+		"startIntroPart1": "I am Buffalo Hump, war chief of the Comanche. For years, my people have roamed these vast plains, living free and strong. When others came to take our lands, we met them with the swiftness of our horses and the sharpness of our weapons. The wind carries the songs of our ancestors, reminding us that this land is our life, our strength, and our spirit.",
+		"startIntroPart2": "Now, a new challenge rises. Will we ride together to protect our people and keep the Comanche name feared and respected? The plains are wide, but the heart of our nation must be steady. Let us honor our past and secure our future under the open sky.",
+		
+		"declaringWar": "You threaten the Comanche, and now the plains will answer. Prepare to face the riders of the wind.",
+		"attacked": "You bring dishonor with your actions. The spirits of the plains will guide us to justice.",
+		"defeated": "You may have won today, but the Comanche endure. Our spirit will not be broken.",
+		"introduction": "I am Buffalo Hump, chief of the Comanche. The plains are wide, but my people are strong. Why have you come?",
+		"neutralHello": "The wind carries your name to me again. Speak your purpose.",
+		"hateHello": "You dare to return? Tread lightly, for I have little patience.",
+		"tradeRequest": "Let us see if your offer respects the strength and honor of the Comanche.",
+		
+		
+		"outerColor": [0, 0, 0],
+		"innerColor": [64, 224, 208],
+		
+		"uniqueName": "Lords of the Plains",
+		"uniques": ["[+2] Movement <for [Mounted] units>", "When defeating a [Mounted] unit, earn [10] Gold and recruit it <with [50]% chance>","Units ignore terrain costs when moving into any tile with Hills", "[-25]% Production when constructing [All] buildings [in all cities]"],
+		"cities": ["Comanchería", "Palo Duro", "Santa Fe", "Lubbock", "San Saba", "San Antonio", 
+           "Llano Estacado", "Taos", "Wichita", "Guadalupe", "Red River", 
+            "Adobe Walls", "Fort Worth", "Bent's Fort", "Fort Belknap", "Buffalo Gap", 
+           "Caprock Canyon", "Yellow House Canyon", "Tonkawa Hills", "Colorado Bend", "Canadian River"],
+		"spyNames": ["Pewoki", "Quannah", "Tabita", "Nakoni", "Kotsoteka", "Yamparika", "Wakawa", "Nokoni", 
+                "Tsen-tse", "Wapiti", "Tua", "Sotua", "Mitsi", "Etenia", "Tahkoma", "Pakata", "Wapi", 
+                "Kwani", "Saqua", "Tenewa", "Takah", "Nokose", "Toa", "Sakima", "Mena", "Chima", "Kitsa", 
+                "Wako", "Sika", "Lupita"]
+	},
 
 ]
 
