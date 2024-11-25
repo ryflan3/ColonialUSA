@@ -38,14 +38,14 @@ UnitIcons/Eagle Bow Hunter (2)
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Hogan Shelter (1)
+BuildingIcons/Hogan Shelter
   rotate: false
   xy: 0, 300
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Horse Pasture (1)
+BuildingIcons/Horse Pasture
   rotate: false
   xy: 200, 300
   size: 200, 200
@@ -59,7 +59,7 @@ UnitIcons/Oskapewis Scout (1)
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Smokehouse (1)
+BuildingIcons/Smokehouse
   rotate: false
   xy: 200, 500
   size: 200, 200
@@ -80,7 +80,7 @@ UnitIcons/Stormriders (1)
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Sweat Lodge (1)
+BuildingIcons/Sweat Lodge
   rotate: false
   xy: 0, 900
   size: 200, 200
