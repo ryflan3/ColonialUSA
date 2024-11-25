@@ -1,0 +1,96 @@
+game3.png
+size: 400, 1100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apache (1)
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Apache Raider (1)
+  rotate: false
+  xy: 0, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Comanche (1)
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Cree (1)
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Eagle Bow Hunter (2)
+  rotate: false
+  xy: 200, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Hogan Shelter (1)
+  rotate: false
+  xy: 0, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Horse Pasture (1)
+  rotate: false
+  xy: 200, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Oskapewis Scout (1)
+  rotate: false
+  xy: 0, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Smokehouse (1)
+  rotate: false
+  xy: 200, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Stockade (1)
+  rotate: false
+  xy: 0, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Stormriders (1)
+  rotate: false
+  xy: 200, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Sweat Lodge (1)
+  rotate: false
+  xy: 0, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+War Party (1)
+  rotate: false
+  xy: 200, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
