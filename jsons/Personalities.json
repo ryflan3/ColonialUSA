@@ -457,6 +457,76 @@
           "Order": 7,
           "National Defense": 6
       }
+},
+  {
+      "name": "Cochise",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 8,
+      "gold": 5,
+      "happiness": 7,
+      "production": 7,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 7,
+      "loyal": 10,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 9,
+          "Commerce": 5,
+          "Patronage": 7,
+          "Piety": 6,
+          "Rationalism": 6,
+          "Exploration": 7,
+          "Aesthetics": 8,
+          "Freedom": 8,
+          "Autocracy": 7,
+          "Order": 7,
+          "National Defense": 9
+      }
+},
+  {
+      "name": "Buffalo Hump",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 8,
+      "gold": 6,
+      "happiness": 7,
+      "production": 7,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 6,
+      "diplomacy": 7,
+      "loyal": 10,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 8,
+          "Honor": 9,
+          "Commerce": 6,
+          "Patronage": 7,
+          "Piety": 6,
+          "Rationalism": 6,
+          "Exploration": 8,
+          "Aesthetics": 8,
+          "Freedom": 8,
+          "Autocracy": 8,
+          "Order": 7,
+          "National Defense": 9
+      }
 }
 
 
