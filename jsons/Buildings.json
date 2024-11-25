@@ -300,5 +300,19 @@
 		"uniques": ["[50]% Food is carried over after population increases [in this city]","[+5]% growth [in this city]"],
 		"requiredTech": "Engineering"
 	},
+	{
+		"name": "Horse Pasture",
+		"replaces": "Stable",
+		"uniqueTo": "Comanche",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+20]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+2 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]","[+2 Gold] from [Horses] tiles [in this city]"]
+		"requiredTech": "Horseback Riding"
+	},
+	
 
 ]
