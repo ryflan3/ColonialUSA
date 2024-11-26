@@ -274,7 +274,7 @@
 		"culture": 1,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Food] from [Camp] tiles [in this city]","[+1 Gold] from [Camp] tiles [in this city]"],
+		"uniques": ["[+1 Food] from [Camp] tiles [in this city]","[+2 Gold] from [Camp] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{
