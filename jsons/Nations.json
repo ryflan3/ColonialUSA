@@ -421,7 +421,7 @@
     "outerColor": [30, 144, 255], 
     "innerColor": [139, 69, 19],   
     "uniqueName": "Council of Peace",
-    "uniques":["[+1 Faith, +1 Food] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production, +1 Food] from each Trade Route","When declaring friendship, both parties gain a [+3]% boost to great person generation","[+40]% Culture cost of natural border growth [in all cities]"],
+    "uniques":["[+1 Faith, +1 Food] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production] from each Trade Route","When declaring friendship, both parties gain a [+3]% boost to great person generation","[+40]% Culture cost of natural border growth [in all cities]"],
     
  "cities": [
         "Echota",
@@ -612,7 +612,7 @@
 		"innerColor": [97, 191, 34],
 		
 		"uniqueName": "Stewards of the North",
-		"uniques": ["[+1 Food, +1 Production] from [Tundra] tiles [in all cities]","[+50]% Yield from every [Camp]","[+1] Movement <for [Land] units> <in [Tundra] tiles>", "[+100]% City-State Influence degradation <when at war>"],
+		"uniques": ["[+1 Food, +1 Production] from [Tundra] tiles [in all cities]","[+25]% Yield from every [Camp]","[+1] Movement <for [Land] units> <in [Tundra] tiles>", "[+100]% City-State Influence degradation <when at war>"],
 		"cities": ["Mistahimaskwa", "Waskaganish", "Nistowiak", "Saskatchewan", "Moosonee", "Rupert House", "La Ronge", 
            "Pimicikamak", "Opaskwayak", "Ouje-Bougoumou", "Chisasibi", "Attawapiskat", "Waswanipi", "Wemindji", 
            "Waskesiu", "Montagnais", "Nitaskinan", "Eeyou Istchee", "Mistikosk", "Maskwacis", "Nisichawayasihk", 
@@ -644,7 +644,7 @@
 		"innerColor": [218, 165, 32],
 		
 		"uniqueName": "Master's of the Land",
-		"uniques": ["[+50]% Yield from every [Desert]","No movement cost to pillage <for [All] units>","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>", "[+25]% construction time for [All] improvements"],
+		"uniques": ["[+40]% Yield from every [Desert]","No movement cost to pillage <for [All] units>","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>", "[+25]% construction time for [All] improvements"],
 		"cities": ["Chiricahua", "Warm Springs", "Mescalero", "San Carlos", 
            "Ojo Caliente", "Tonto Basin", "Dragoon Mountains", "White Mountains", "Aravaipa Canyon", 
            "Black Range", "Tularosa", "Mount Graham", "San Simon", "Blue River", "Alma", "Ruidoso", 
@@ -679,7 +679,7 @@
 		"innerColor": [64, 224, 208],
 		
 		"uniqueName": "Lords of the Plains",
-		"uniques": ["[+2] Movement <for [Mounted] units>", "When defeating a [Mounted] unit, earn [10] Gold and recruit it <with [50]% chance>","Units ignore terrain costs when moving into any tile with Hills", "[-25]% Production when constructing [All] buildings [in all cities]"],
+		"uniques": ["[+2] Movement <for [Mounted] units>", "When defeating a [Mounted] unit, earn [10] Gold and recruit it <with [50]% chance>","Units ignore terrain costs when moving into any tile with Hills", "[-15]% Production when constructing [All] buildings [in all cities]"],
 		"cities": ["Comanchería", "Palo Duro", "Santa Fe", "Lubbock", "San Saba", "San Antonio", 
            "Llano Estacado", "Taos", "Wichita", "Guadalupe", "Red River", 
             "Adobe Walls", "Fort Worth", "Bent's Fort", "Fort Belknap", "Buffalo Gap", 
