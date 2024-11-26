@@ -612,7 +612,7 @@
 		"innerColor": [97, 191, 34],
 		
 		"uniqueName": "Stewards of the North",
-		"uniques": ["[+1 Food, +1 Production] from [Tundra] tiles [in all cities]","[+75]% Yield from every [Camp]","[+1] Movement <for [Land] units> <in [Tundra] tiles>", "[+100]% City-State Influence degradation <when at war>"],
+		"uniques": ["[+1 Food, +1 Production] from [Tundra] tiles [in all cities]","[+50]% Yield from every [Camp]","[+1] Movement <for [Land] units> <in [Tundra] tiles>", "[+100]% City-State Influence degradation <when at war>"],
 		"cities": ["Mistahimaskwa", "Waskaganish", "Nistowiak", "Saskatchewan", "Moosonee", "Rupert House", "La Ronge", 
            "Pimicikamak", "Opaskwayak", "Ouje-Bougoumou", "Chisasibi", "Attawapiskat", "Waswanipi", "Wemindji", 
            "Waskesiu", "Montagnais", "Nitaskinan", "Eeyou Istchee", "Mistikosk", "Maskwacis", "Nisichawayasihk", 
