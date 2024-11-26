@@ -167,11 +167,11 @@
         "name": "Boonesborough-type",
         "friendBonusUniques": [
 			"Provides military units every ≈[20] turns",
-			"[+75]% Yield from every [Land] <in [Fort] tiles>"
+			"[+50]% Yield from every [Land] <in [Fort] tiles>"
 		],
         "allyBonusUniques": [
 			"Provides military units every ≈[13] turns",
-			"[+150]% Yield from every [Land] <in [Fort] tiles>"
+			"[+75]% Yield from every [Land] <in [Fort] tiles>"
 		],
         "color": [255, 0, 0]
     },
