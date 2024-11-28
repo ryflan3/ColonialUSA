@@ -679,7 +679,7 @@
 		"innerColor": [64, 224, 208],
 		
 		"uniqueName": "Lords of the Plains",
-		"uniques": ["[+2] Movement <for [Mounted] units>", "When defeating a [Mounted] unit, earn [10] Gold and recruit it <with [50]% chance>","Units ignore terrain costs when moving into any tile with Hills", "[-15]% Production when constructing [All] buildings [in all cities]"],
+		"uniques": ["[+2] Movement <for [Mounted] units>","[+1 Food] from [Plains] tiles [in all cities]", "When defeating a [Mounted] unit, earn [10] Gold and recruit it <with [50]% chance>","Units ignore terrain costs when moving into any tile with Hills", "[-15]% Production when constructing [All] buildings [in all cities]"],
 		"cities": ["Comanchería", "Palo Duro", "Santa Fe", "Lubbock", "San Saba", "San Antonio", 
            "Llano Estacado", "Taos", "Wichita", "Guadalupe", "Red River", 
             "Adobe Walls", "Fort Worth", "Bent's Fort", "Fort Belknap", "Buffalo Gap", 
